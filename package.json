@@ -1,0 +1,26 @@
+{
+  "name": "pppppp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishatayub/pppppp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishatayub/pppppp/issues"
+  },
+  "homepage": "https://github.com/nishatayub/pppppp#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.6",
+    "nodemon": "^3.1.9"
+  }
+}
